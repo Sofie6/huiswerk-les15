@@ -1,0 +1,132 @@
+body{
+	background-color: black;
+	color:white;
+}
+
+
+#header {
+    padding-top: 150px;
+    padding-left: 505px;
+    padding-bottom: 100px;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    background-color: #000000;
+}
+
+#table {
+    padding-left:500px;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #000000;
+    border:none;
+    }
+
+.intro {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: large;
+    font-weight: normal;
+    border:none
+}
+
+.opleiding{
+	color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: large;
+    font-weight: normal;
+    border:none
+	
+}
+
+.werkervaring{
+	color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: large;
+    font-weight: normal;
+    border:none
+}
+
+
+.intro2 {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    border: none;
+ }
+
+
+.home {
+    color: #FFFFFF;
+	text-decoration: none;
+}
+.contact   {
+    color: #F4F4F4;
+    text-decoration: none;
+}
+.cv {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#navigatie a:hover{
+    color: white;
+    font-size: 15px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+#footer {
+    padding-top: 150px;
+    padding-left: 505px;
+    padding-bottom: 100px;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: left;
+    text-decoration: none;
+	font-weight: lighter;
+    font-size: small;
+}
+.intro3 {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+}
+.intro4 {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: small;
+    text-align: left;
+}
+
+#formulier{
+	padding-left: 505px;
+}
+input[type="text"], input[type="email"], select, button{
+	display: block;
+	margin: 15px 0px;
+	width: 400px;
+	box-sizing: border-box;
+	border-radius: 6px; box-shadow: inset 2px 2px 5px lightgrey;
+	}
+	
+	textarea {
+	background-color: lightgrey;
+	color:white;
+	height: 200px;
+	width:400px;
+	border-radius: 6px; box-shadow: inset 2px 2px 5px lightgrey;
+	}
+		
+	button:active{
+	background-color: white;
+	color: black;
+	
+	}
+
+.link1 {
+    color: #FFFFFF;
+}
